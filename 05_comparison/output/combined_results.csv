@@ -1,0 +1,5 @@
+aspect,frequentist,bayesian
+Approach,Hypothesis Testing,Posterior Probability
+Key Output,P-value + CI,P(A > B) + HDI
+1-Day Significant?,p=0.0744 (No),P(Control better)=96.27%
+7-Day Significant?,p=0.0016 (Yes),P(Control better)=99.91%
